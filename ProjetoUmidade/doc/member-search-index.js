@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"EstatisticasUmidade","l":"desvioPadrao(int)"},{"p":"<Unnamed>","c":"EstatisticasUmidade","l":"EstatisticasUmidade()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"EstatisticasUmidade","l":"media(int)"},{"p":"<Unnamed>","c":"EstatisticasUmidade","l":"setValor(double)"}]
